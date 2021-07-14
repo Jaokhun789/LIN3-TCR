@@ -1,2 +1,4 @@
 # LIN3-TCR
-LINE-BOT-TCR
+Forked from LINEALPHA [MerkKremont]
+
+fixing some error and delete unusable code
